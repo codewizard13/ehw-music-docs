@@ -132,6 +132,9 @@ junk/
 #######################################################
 _bkp/
 
+# LibreOffice lock files
+.~lock
+
 
 ### ------------------------------------------------ ####
 #  This file is always evolving. Refer to the link at
