@@ -14,6 +14,11 @@ Examples of things you may find on this site are:
 - List of Music & Artists with Ties to Iowa (Sullivan, Slipknot, etc.)
 - etc...
 
+## [My Bands](/my-bands/index.md)
+
+- [Brown Sugar Cracker](/my-bands/brown-sugar-cracker.md)
+
+
 ## Docs
 
 - [Unabridged List of Influential Music](/_docs/EH_MUSIC__20240511SongsList_UNAB.ods)
@@ -21,11 +26,5 @@ Examples of things you may find on this site are:
 
 ## MY OTHER COLLECTIONS & WIKIS
 
-- [Cheatsheets (local)](/../_cheatsheets/)
-- [Cheatsheets (GitHub)](https://github.com/codewizard13/ehw-cheatsheets)
+- **Cheatsheets**: ([local](/../_cheatsheets/), [GitHub](https://github.com/codewizard13/ehw-cheatsheets)) Mostly technical tips and processes for coding, programming, software development, IT, PC and printer repair, etc.
 
-## REFERENCES
-
-## Credits
-
-- This format is based on [Christian Lempa's Cheatsheets](https://github.com/ChristianLempa/cheat-sheets/blob/main/linux/awk.md).
