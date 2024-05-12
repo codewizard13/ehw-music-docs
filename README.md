@@ -7,6 +7,7 @@ Examples of things you may find on this site are:
 
 - Church songs
 - **Secular Jesus Music:** Secular songs that can be used for worship
+- **Secular Gospel:** Secular music with characteristics of gospel music
 - **Unlikely Metal:** Music from non-metal generes that could easily be covered as metal
 - Favorite music generes: (Thrash Metal, Doom Metal, Acid Rock, Blues Rock, Classic Rock, Blues, Classical)
 - Songs I've played in bands
