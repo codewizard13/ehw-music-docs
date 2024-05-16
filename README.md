@@ -29,3 +29,4 @@ Examples of things you may find on this site are:
 
 - **Cheatsheets**: ([local](/../_cheatsheets/), [GitHub](https://github.com/codewizard13/ehw-cheatsheets)) Mostly technical tips and processes for coding, programming, software development, IT, PC and printer repair, etc.
 
+- **Ministry**: ([local](/../_ministry/), [GitHub](https://github.com/codewizard13/ehw-ministry)) My experiences with finding Jesus, Christianity, atheism, world religions, cults, belief systems, etc.
